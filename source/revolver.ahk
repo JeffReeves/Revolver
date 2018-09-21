@@ -204,7 +204,6 @@ InitializeGUI(this) {
 
 UpdateGUI(this) {
 
-    this.sectionWidth := 320
     fontSize := 10
 
     startPos := 1
